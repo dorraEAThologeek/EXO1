@@ -1,1 +1,1 @@
-# EXO should be completed
+# EXO1 : This is only an exercices
